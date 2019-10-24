@@ -3459,7 +3459,7 @@ a {
 body {
 	    background-image: url(https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN);
 	    background-size: 100%;
-        background-repeat: no-repeat;
+        background-repeat: repeat;
 		/*height: 100%;
 		background-color: #ffffff;
 		background-image: url("../img/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../img/bg.jpg");
